@@ -11,7 +11,7 @@ namespace Tyuiu.GrabinaSA.Sprint1.Task0.V30
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #30                                                              *");
+            Console.WriteLine("* Вариант #30                                                             *");
             Console.WriteLine("* Выполнил Грабина Сергей Александрович | ИСТНб-24-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
