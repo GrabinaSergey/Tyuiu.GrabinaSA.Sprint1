@@ -1,5 +1,5 @@
-﻿using Tyuiu.GrabinaSA.Sprint1.Task5.V1.Lib;
-namespace Tyuiu.GrabinaSA.Sprint1.Task5.V1
+﻿using Tyuiu.GrabinaSA.Sprint1.Task7.V26.Lib;
+namespace Tyuiu.GrabinaSA.Sprint1.Task7.V26
 {
     internal class Program
     {
@@ -10,36 +10,28 @@ namespace Tyuiu.GrabinaSA.Sprint1.Task5.V1
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Организация ввода/вывода в консольных приложениях                 *");
-            Console.WriteLine("* Задание #5                                                              *");
-            Console.WriteLine("* Вариант #1                                                              *");
+            Console.WriteLine("* Задание #7                                                              *");
+            Console.WriteLine("* Вариант #26                                                             *");
             Console.WriteLine("* Выполнил Грабина Сергей Александрович | ИСТНб-24-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Если прочитал то твоя мама будет здорова всю жизнь!                     *");
-            Console.WriteLine("* Баребухи                                                                *");
+            Console.WriteLine("* Я ЛЮБЛЮ ИГОРЯ СПИРИНА                                                   *");
+            Console.WriteLine("* И ЕЩЕ ШЕРСТАКОВА СЕРГЕЯ АЛЕКСАНДРОВИЧ                                   *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
+            double x, y;
+            Console.WriteLine("* Введите X: ");
+            x = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("* Введите Y: ");
+            y = Convert.ToDouble(Console.ReadLine());
+            double res = ds.Calculate(x, y);
+
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("Введите значение X1:");
-            double x1 = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Введите значение Y1:");
-            double y1 = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Введите значение X2:");
-            double x2 = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Введите значение Y2:");
-            double y2 = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Растояние между точками: " + ds.DistanceBetweenDots(x1, y1, x2, y2));
-
-            Console.ReadLine();
-
+            Console.WriteLine(res);
         }
     }
 }
