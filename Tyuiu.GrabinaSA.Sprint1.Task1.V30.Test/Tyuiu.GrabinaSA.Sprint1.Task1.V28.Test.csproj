@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.GrabinaSA.Sprint1.Task1.V30.Lib\Tyuiu.GrabinaSA.Sprint1.Task1.V30.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.GrabinaSA.Sprint1.Task1.V30.Lib\Tyuiu.GrabinaSA.Sprint1.Task1.V28.Lib.csproj" />
   </ItemGroup>
 
   <ItemGroup>

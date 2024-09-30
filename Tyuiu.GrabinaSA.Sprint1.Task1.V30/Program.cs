@@ -1,5 +1,5 @@
-﻿using Tyuiu.GrabinaSA.Sprint1.Task1.V30.Lib;
-namespace Tyuiu.GrabinaSA.Sprint1.Task1.V30
+﻿using Tyuiu.GrabinaSA.Sprint1.Task1.V28.Lib;
+namespace Tyuiu.GrabinaSA.Sprint1.Task1.V28
 {
     internal class Program
     {
@@ -11,7 +11,7 @@ namespace Tyuiu.GrabinaSA.Sprint1.Task1.V30
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Организация ввода/вывода в консольных приложениях                 *");
             Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #30                                                             *");
+            Console.WriteLine("* Вариант #28                                                             *");
             Console.WriteLine("* Выполнил Грабина Сергей Александрович | ИСТНб-24-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");

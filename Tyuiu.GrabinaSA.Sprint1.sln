@@ -13,11 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint1.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{B3D0536D-84B8-4B38-9ECC-0E819CE0A772}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint1.Task1.V30", "Tyuiu.GrabinaSA.Sprint1.Task1.V30\Tyuiu.GrabinaSA.Sprint1.Task1.V30.csproj", "{19BEDA0D-9A9B-45A4-9464-117DEE39CA79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint1.Task1.V28", "Tyuiu.GrabinaSA.Sprint1.Task1.V30\Tyuiu.GrabinaSA.Sprint1.Task1.V28.csproj", "{19BEDA0D-9A9B-45A4-9464-117DEE39CA79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint1.Task1.V30.Lib", "Tyuiu.GrabinaSA.Sprint1.Task1.V30.Lib\Tyuiu.GrabinaSA.Sprint1.Task1.V30.Lib.csproj", "{F060A1D2-F158-4419-AF9A-E05924DE3CA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint1.Task1.V28.Lib", "Tyuiu.GrabinaSA.Sprint1.Task1.V30.Lib\Tyuiu.GrabinaSA.Sprint1.Task1.V28.Lib.csproj", "{F060A1D2-F158-4419-AF9A-E05924DE3CA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint1.Task1.V30.Test", "Tyuiu.GrabinaSA.Sprint1.Task1.V30.Test\Tyuiu.GrabinaSA.Sprint1.Task1.V30.Test.csproj", "{A3BF60DC-1373-4FB8-8332-B07ECCFD53B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint1.Task1.V28.Test", "Tyuiu.GrabinaSA.Sprint1.Task1.V30.Test\Tyuiu.GrabinaSA.Sprint1.Task1.V28.Test.csproj", "{A3BF60DC-1373-4FB8-8332-B07ECCFD53B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
